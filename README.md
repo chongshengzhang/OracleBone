@@ -1,14 +1,21 @@
 # OracleBone
+
 Demo Paper
 
-Currently, this page is to provide the software tools described in our demo paper.  At the current stage, only the reviewers with a download code can access the corresponding software. 
+Dear Friends:
 
-In the future, we will share all the software tools and the source codes of our algorithms with the community. 
+Currently, this page is to provide the software tools described in our demo paper.  At the current stage, only the reviewers with a download (SkyDrive) code can access the corresponding software. In the future, we will share all the software tools and the source codes of our algorithms with the community. 
 
-The link of the software tools depicted in our demo paper:
 
-The download code is provided in our demo paper under review. 
+To run our codes, python3, numpy, opencv, pyqt5, Pandas, TensorFlow, and PyTorch should be installed first. 
 
-To run our codes, python3, opencv, pyqt5, and numpy should be installed first. 
+
+The SkyDrive (Baidu NetDisk) address of the software tools depicted in our demo paper: 
+https://pan.baidu.com/s/1os-YneO-kUxrMtA1uH5FlA
+
+
+The SkyDrive download code is provided in the submitted paper under review (for now, only the reviewers of this paper can access the demonstrated system.). 
+
+
 
 Thank you so much for your attention. 
