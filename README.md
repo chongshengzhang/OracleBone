@@ -1,6 +1,6 @@
 # OracleBone
 
-IJCAI Demo Paper
+Demo Paper
 
 
 
