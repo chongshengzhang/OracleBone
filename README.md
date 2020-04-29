@@ -1,20 +1,16 @@
 # OracleBone
 
-Demo Paper
+IJCAI Demo Paper
 
-Dear Friends:
 
-Currently, this page is to show the demonstrated system presented in our demo paper.  At the current stage, only the reviewers with a download (SkyDrive) code can access the corresponding software/programs. In the future, we will share all the software tools and the source codes of our algorithms with the community. 
+
+Currently, this page is to share the resources of our demo paper.  At the current stage, only the reviewers can access the corresponding software/resources. 
 
 
 To run our codes, python3, numpy, opencv, pyqt5, Pandas, TensorFlow, and PyTorch should be installed first. 
 
 
-The SkyDrive (Baidu NetDisk) address of the software tools depicted in our demo paper: 
-https://pan.baidu.com/s/1os-YneO-kUxrMtA1uH5FlA
-
-
-The SkyDrive download code is provided in the submitted paper under review (for now, only the reviewers of this paper can access the demonstrated system.). 
+In the future, we will share all the software tools and resources of this work with the community. 
 
 
 
